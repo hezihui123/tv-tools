@@ -5,10 +5,7 @@
 链接：https://pan.quark.cn/s/e3084f72e84a
 
 
-大家还记得，上上个月给大家测评了一款
-「电视工具箱」？它把：电子书阅读、播客收听、文件传输、FM、应用管理，三大功能装进同一个 App。最关键的是：它支持 Android 4.4 的老盒子，32 位 / 64 位 ARM 都能跑。
-
-旧版的它长这样：
+<img width="2640" height="1080" alt="1" src="https://github.com/user-attachments/assets/fa69190c-c5a2-448a-96de-03df26a835d5" />
 
 
 
